@@ -1,49 +1,50 @@
 body {
-          font-family: Arial, Helvetica, San-serif;
-          font-size: 100%;
-          margin-left: 10px;
+    font-family: Arial, Helvetica, San-serif;
+    font-size: 100%;
+    margin-left: 10px;
     }
     
     a:focus{
-          font-style: italic;
-          color: orangered;
+    font-style: italic;
+    color: orangered;
     }
     
     a:hover{
-          font-style: italic;
-          color: orangered;
+    font-style: italic;
+    color: orangered;
     }
     
     h1{
-          font-size: 175%;
-          color: maroon;
-          text-indent: 30px;
+    font-size: 175%;
+    color: maroon;
+    text-indent: 30px;
     }
     
     h2{
-          font-size: 130%;
-          color: #800000;
-          text-indent: 30px;
+    font-size: 130%;
+    color: #800000;
+    text-indent: 30px;
     }
     
     img{
-          float: left;
+    float: left;
     }
     
     .shadow{
-          text-shadow: 2px 2px 2px rgb(128,0,0);
+    text-shadow: 2px 2px 2px rgb(128,0,0);
     }
     
     h3{
-          margin-top: 3em;
-          font-size: 105%;
+    margin-top: 3em;
+    font-size: 105%;
     }
     
     #list{
-          line-height: 1.5em;
+    line-height: 1.5em;
     }
     
     footer{
-          text-align: center;
-          font-size: 80%;
+    text-align: center;
+    font-size: 80%;
     }
+    
