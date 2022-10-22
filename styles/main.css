@@ -62,14 +62,14 @@ article p::first-letter {
 	font-weight: bold;
 	font-style: italic;
 	color: lightgreen;
-}
+	}
 /* ASIDE */
-aside{
-    width: 20%;
-    float: right;
-	padding: 0.1em 1em 1em;
-    background-color: #ffebc6;
-}
+	aside{
+    	width: 20%;
+   		 float: right;
+		padding: 0.1em 1em 1em;
+   		 background-color: #ffebc6;
+	}
 footer {
 	clear: both;
 	border-top: 2px solid maroon;
